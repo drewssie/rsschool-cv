@@ -1,6 +1,6 @@
 # Junior Developer CV
 
-Hello there, I'm Andrei Grebtcov (with preffered name forms being Andrey or Drew), nice to meet you! My contact info can be found on [LinkedIn](https://www.linkedin.com/in/andrey-grebtsov-610541140), while the fastest option to reach me is [Telegram](https://t.me/drewssie).
+Hello there, I'm Andrei Grebtcov (with preferred name forms being Andrey or Drew), nice to meet you! My contact info can be found on [LinkedIn](https://www.linkedin.com/in/andrey-grebtsov-610541140), while the fastest option to reach me is [Telegram](https://t.me/drewssie).
 
 Having gathered experience in different areas of expertise as a contractor of sorts I did come to a conclusion, that I want to create something from the ground up instead of producing secondary content. By realizing this the understanding of learning something from the ground up came as well. And now I'm here, striving to evolve.
 
@@ -9,3 +9,5 @@ At this point I've been studying Swift for a few months, dealing with UIKit and 
 My latest code examples can be found here on [GitHub](https://github.com/drewssie).
 
 Let me know if you'd like to collaborate!
+
+drewssie
